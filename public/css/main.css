@@ -28,8 +28,8 @@ body {
   height: 600px;
   margin: 10% 50px 0px;
   display: flex;
-  justify-content: center;
-  align-items: center;
+  justify-content: center; /*Aligns from left to right*/
+  align-items: center; /*Aligns from top to bottom*/
 }
 
 #red {
@@ -39,8 +39,8 @@ body {
   border: 10px solid black;
   border-radius: 5px;
   display: flex;
-  justify-content: center;
-  align-items: center;
+  justify-content: center; /*Aligns from left to right*/
+  align-items: center; /*Aligns from top to bottom*/
 }
 
 #blue {
