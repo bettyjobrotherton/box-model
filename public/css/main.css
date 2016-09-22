@@ -24,13 +24,23 @@ body {
 }
 
 #yellow {
-
+  background-color: yellow;
+  height: 600px;
+  margin: 10% 50px 0px;
 }
 
 #red {
-
+  background-color: red;
+  height: 400px;
+  width: 75%;
+  border: 10px solid black;
+  border-radius: 5px;
+  display: block;
+  margin: auto;
 }
 
-#lightblue{
-
+#blue {
+  background-color: lightblue;
+  height: 300px;
+  width: 50%;
 }
