@@ -27,6 +27,9 @@ body {
   background-color: yellow;
   height: 600px;
   margin: 10% 50px 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 #red {
@@ -35,12 +38,13 @@ body {
   width: 75%;
   border: 10px solid black;
   border-radius: 5px;
-  display: block;
-  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 #blue {
-  background-color: lightblue;
+  background-color: cyan;
   height: 300px;
-  width: 50%;
+  width: 90%;
 }
