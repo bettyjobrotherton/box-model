@@ -25,7 +25,8 @@ body {
 
 #yellow {
   background-color: yellow;
-  height: 600px;
+  padding-top: 5%;
+  padding-bottom: 5%;
   margin: 10% 50px 0px;
   display: flex;
   justify-content: center; /*Aligns from left to right*/
@@ -34,7 +35,8 @@ body {
 
 #red {
   background-color: red;
-  height: 400px;
+  padding-top: 5%;
+  padding-bottom: 5%;
   width: 75%;
   border: 10px solid black;
   border-radius: 5px;
@@ -45,6 +47,6 @@ body {
 
 #blue {
   background-color: cyan;
-  height: 300px;
+  padding-top: 30%;
   width: 90%;
 }
